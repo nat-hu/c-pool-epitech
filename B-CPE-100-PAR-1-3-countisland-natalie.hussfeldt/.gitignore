@@ -1,0 +1,10 @@
+# ignore files
+main.c
+*~
+*.out
+*.log
+*.gcda
+*.gcno
+*.o
+libmy.a
+foo.txt

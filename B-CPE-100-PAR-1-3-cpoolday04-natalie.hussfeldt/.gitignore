@@ -1,0 +1,7 @@
+# ignore files
+my_putchar.c
+main.c
+*~
+*.out
+*.log
+my_put_nbr.c
